@@ -617,6 +617,15 @@ body {
 		font-size:30px;
 		text-decoration:bold;
 	}
+	.faq_ques{
+		padding:2px;
+	}
+	.faq{
+	padding: .1rem 1rem;
+	}
+	.faq_sec{
+		padding:10px;
+	}
 }
 @media (max-width: 550px) {
 	.copyRight {
